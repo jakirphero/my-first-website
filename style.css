@@ -2,3 +2,22 @@ body {
     margin: 0;
     background: red;
 }
+.main-menu {
+    background: #ffffff;
+    
+}
+.main-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.main-menu ul li {
+    display: inline-block;
+}
+.main-menu ul li a {
+    color: #000000;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 10px;
+}
